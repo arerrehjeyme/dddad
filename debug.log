@@ -1,0 +1,28 @@
+[0901/000411:INFO:mailmaster_exe.cpp(140)] Start ======================================================
+[0901/000411:INFO:mailmaster_exe.cpp(142)] Commandline: --type=gpu-process --field-trial-handle=2388,8820587888833277618,7267121694708638448,131072 --enable-features=CastMediaRouteProvider --disable-features=WinUseBrowserSpellChecker --no-sandbox --log-file="C:\Users\Administrator\AppData\Local\Netease\MailMaster\logs\web.log" --product-version="Chrome/87.0.4280.141 MailMasterPC/5.1.2.1013 (universal)" --lang=zh-CN --gpu-preferences=MAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --use-gl=swiftshader-webgl --log-file="C:\Users\Administrator\AppData\Local\Netease\MailMaster\logs\web.log" --mojo-platform-channel-handle=2396 /prefetch:2
+[0901/000411:INFO:mailmaster_exe.cpp(76)] Environment: {"Admin":0,"CPULogicalCores":32,"CPUModel":"AMD Ryzen 9 5950X 16-Core Processor            ","Mac":["182649CDDE67"],"Memory":"46337/65461M","OSArchitecture":"x86_64","OSVersion":"10.0.19045"}
+[0901/000411:INFO:mailmaster_exe.cpp(77)] Exe.Path: C:\Program Files (x86)\Netease\MailMaster\Application\mailmaster.exe
+[0901/000411:INFO:mailmaster_exe.cpp(82)] Last system shutdown time: 2024-08-31 04:38:44.948 UTC
+[0901/000411:INFO:mailmaster_exe.cpp(84)] System start time: 2024-08-31 10:02:55.000 UTC
+[0901/000411:INFO:main_dll_loader.cpp(113)] Version: 5.1.2.1013
+[0901/000411:INFO:mailmaster_exe.cpp(140)] Start ======================================================
+[0901/000411:INFO:mailmaster_exe.cpp(142)] Commandline: --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2388,8820587888833277618,7267121694708638448,131072 --enable-features=CastMediaRouteProvider --disable-features=WinUseBrowserSpellChecker --lang=zh-CN --service-sandbox-type=network --no-sandbox --log-file="C:\Users\Administrator\AppData\Local\Netease\MailMaster\logs\web.log" --product-version="Chrome/87.0.4280.141 MailMasterPC/5.1.2.1013 (universal)" --lang=zh-CN --log-file="C:\Users\Administrator\AppData\Local\Netease\MailMaster\logs\web.log" --mojo-platform-channel-handle=3296 /prefetch:8
+[0901/000411:INFO:mailmaster_exe.cpp(76)] Environment: {"Admin":0,"CPULogicalCores":32,"CPUModel":"AMD Ryzen 9 5950X 16-Core Processor            ","Mac":["182649CDDE67"],"Memory":"46326/65461M","OSArchitecture":"x86_64","OSVersion":"10.0.19045"}
+[0901/000411:INFO:mailmaster_exe.cpp(77)] Exe.Path: C:\Program Files (x86)\Netease\MailMaster\Application\mailmaster.exe
+[0901/000411:INFO:mailmaster_exe.cpp(82)] Last system shutdown time: 2024-08-31 04:38:44.948 UTC
+[0901/000411:INFO:mailmaster_exe.cpp(84)] System start time: 2024-08-31 10:02:54.000 UTC
+[0901/000411:INFO:main_dll_loader.cpp(113)] Version: 5.1.2.1013
+[0901/000416:INFO:mailmaster_exe.cpp(140)] Start ======================================================
+[0901/000416:INFO:mailmaster_exe.cpp(142)] Commandline: --type=renderer --no-sandbox --log-file="C:\Users\Administrator\AppData\Local\Netease\MailMaster\logs\web.log" --field-trial-handle=2388,8820587888833277618,7267121694708638448,131072 --enable-features=CastMediaRouteProvider --disable-features=WinUseBrowserSpellChecker --disable-gpu-compositing --lang=zh-CN --log-file="C:\Users\Administrator\AppData\Local\Netease\MailMaster\logs\web.log" --product-version="Chrome/87.0.4280.141 MailMasterPC/5.1.2.1013 (universal)" --disable-pdf-extension --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --mojo-platform-channel-handle=4364 /prefetch:1
+[0901/000416:INFO:mailmaster_exe.cpp(76)] Environment: {"Admin":0,"CPULogicalCores":32,"CPUModel":"AMD Ryzen 9 5950X 16-Core Processor            ","Mac":["182649CDDE67"],"Memory":"46340/65461M","OSArchitecture":"x86_64","OSVersion":"10.0.19045"}
+[0901/000416:INFO:mailmaster_exe.cpp(77)] Exe.Path: C:\Program Files (x86)\Netease\MailMaster\Application\mailmaster.exe
+[0901/000416:INFO:mailmaster_exe.cpp(82)] Last system shutdown time: 2024-08-31 04:38:44.948 UTC
+[0901/000416:INFO:mailmaster_exe.cpp(84)] System start time: 2024-08-31 10:02:54.000 UTC
+[0901/000416:INFO:main_dll_loader.cpp(113)] Version: 5.1.2.1013
+[0901/000417:INFO:mailmaster_exe.cpp(140)] Start ======================================================
+[0901/000417:INFO:mailmaster_exe.cpp(142)] Commandline: --type=renderer --no-sandbox --log-file="C:\Users\Administrator\AppData\Local\Netease\MailMaster\logs\web.log" --field-trial-handle=2388,8820587888833277618,7267121694708638448,131072 --enable-features=CastMediaRouteProvider --disable-features=WinUseBrowserSpellChecker --disable-gpu-compositing --lang=zh-CN --log-file="C:\Users\Administrator\AppData\Local\Netease\MailMaster\logs\web.log" --product-version="Chrome/87.0.4280.141 MailMasterPC/5.1.2.1013 (universal)" --disable-pdf-extension --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --mojo-platform-channel-handle=4456 /prefetch:1
+[0901/000417:INFO:mailmaster_exe.cpp(76)] Environment: {"Admin":0,"CPULogicalCores":32,"CPUModel":"AMD Ryzen 9 5950X 16-Core Processor            ","Mac":["182649CDDE67"],"Memory":"46315/65461M","OSArchitecture":"x86_64","OSVersion":"10.0.19045"}
+[0901/000417:INFO:mailmaster_exe.cpp(77)] Exe.Path: C:\Program Files (x86)\Netease\MailMaster\Application\mailmaster.exe
+[0901/000417:INFO:mailmaster_exe.cpp(82)] Last system shutdown time: 2024-08-31 04:38:44.948 UTC
+[0901/000417:INFO:mailmaster_exe.cpp(84)] System start time: 2024-08-31 10:02:54.000 UTC
+[0901/000417:INFO:main_dll_loader.cpp(113)] Version: 5.1.2.1013
